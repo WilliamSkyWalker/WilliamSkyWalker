@@ -1,5 +1,7 @@
 # Hi, I'm William 👋
 
+Previously worked at **Alibaba**. / 曾就职于**阿里巴巴**。
+
 **Open to work · 求职中**
 
 I'm looking for **Staff SDET**, **SDET Manager**, or **AI Agent Development** opportunities in **Shanghai or remotely**.
